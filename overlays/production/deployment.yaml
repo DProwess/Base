@@ -4,4 +4,3 @@ metadata:
   name: the-deployment
 spec:
   replicas: 10
-EOF

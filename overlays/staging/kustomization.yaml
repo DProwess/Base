@@ -3,9 +3,8 @@ commonLabels:
   variant: staging
   org: acmeCorporation
 commonAnnotations:
-  note: Hello, I am staging!!!
+  note: Hello, I am staging!
 resources:
 - ../../base
 patchesStrategicMerge:
 - map.yaml
-EOF

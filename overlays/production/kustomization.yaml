@@ -8,4 +8,3 @@ resources:
 - ../../base
 patchesStrategicMerge:
 - deployment.yaml
-EOF
